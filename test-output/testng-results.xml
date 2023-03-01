@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-03-01T03:27:50Z" name="Default suite" finished-at="2023-03-01T03:27:51Z" duration-ms="72">
+    <groups>
+    </groups>
+    <test started-at="2023-03-01T03:27:50Z" name="Default test" finished-at="2023-03-01T03:27:51Z" duration-ms="72">
+      <class name="testngpractice.TestCase">
+        <test-method is-config="true" signature="tc1()[pri:0, instance:testngpractice.TestCase@51133c06]" started-at="2023-03-01T03:27:50Z" name="tc1" finished-at="2023-03-01T03:27:50Z" duration-ms="14" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc1 -->
+        <test-method is-config="true" signature="tc2()[pri:0, instance:testngpractice.TestCase@51133c06]" started-at="2023-03-01T03:27:51Z" name="tc2" finished-at="2023-03-01T03:27:51Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc2 -->
+        <test-method signature="tc3(int, int)[pri:0, instance:testngpractice.TestCase@51133c06]" started-at="2023-03-01T03:27:51Z" name="tc3" data-provider="data" finished-at="2023-03-01T03:27:51Z" duration-ms="7" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[11]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[111]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc3 -->
+        <test-method is-config="true" signature="tc4()[pri:0, instance:testngpractice.TestCase@51133c06]" started-at="2023-03-01T03:27:51Z" name="tc4" finished-at="2023-03-01T03:27:51Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc4 -->
+        <test-method is-config="true" signature="tc2()[pri:0, instance:testngpractice.TestCase@51133c06]" started-at="2023-03-01T03:27:51Z" name="tc2" finished-at="2023-03-01T03:27:51Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc2 -->
+        <test-method signature="tc3(int, int)[pri:0, instance:testngpractice.TestCase@51133c06]" started-at="2023-03-01T03:27:51Z" name="tc3" data-provider="data" finished-at="2023-03-01T03:27:51Z" duration-ms="3" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[999]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[22]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc3 -->
+        <test-method is-config="true" signature="tc4()[pri:0, instance:testngpractice.TestCase@51133c06]" started-at="2023-03-01T03:27:51Z" name="tc4" finished-at="2023-03-01T03:27:51Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc4 -->
+        <test-method is-config="true" signature="tc5()[pri:0, instance:testngpractice.TestCase@51133c06]" started-at="2023-03-01T03:27:51Z" name="tc5" finished-at="2023-03-01T03:27:51Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc5 -->
+      </class> <!-- testngpractice.TestCase -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
